@@ -171,6 +171,7 @@
                         <outlet property="playButton" destination="ryy-0X-blB" id="2JD-gg-rgh"/>
                         <outlet property="playerCurrentTime" destination="fhW-qv-XHE" id="M1O-Gr-tWR"/>
                         <outlet property="slider" destination="Myx-nV-owQ" id="b0A-w0-46y"/>
+                        <outlet property="sliderVolume" destination="up6-uc-ohZ" id="Epd-cA-0fV"/>
                         <outlet property="songtitle" destination="FoY-gv-uIQ" id="lSG-aH-ylH"/>
                         <outlet property="timeLabel" destination="D2A-yk-C6A" id="A5S-CH-aAE"/>
                     </connections>
